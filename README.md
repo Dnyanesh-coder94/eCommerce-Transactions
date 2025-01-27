@@ -1,5 +1,10 @@
 **eCommerce Data Science Assignment**
-This repository contains the solution for the eCommerce Transactions Dataset assignment. The task involves performing exploratory data analysis (EDA), building predictive models, and deriving actionable business insights. The dataset consists of three files: Customers.csv, Products.csv, and Transactions.csv. The goal is to apply various data science techniques to derive meaningful insights and predictions from the dataset.
+
+
+This repository contains the solution for the eCommerce Transactions Dataset assignment.
+The task involves performing exploratory data analysis (EDA), building predictive models, and deriving actionable business insights. 
+The dataset consists of three files: Customers.csv, Products.csv, and Transactions.csv. 
+The goal is to apply various data science techniques to derive meaningful insights and predictions from the dataset.
 
 Dataset Overview
 You are provided with three CSV files:
